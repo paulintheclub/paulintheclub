@@ -10,6 +10,6 @@ Currently working with **Next.js, TypeScript, Prisma, and tRPC**, focusing on e-
 - 🗄️ Databases: PostgreSQL, MySQL, Prisma ORM  
 - ☁️ DevOps: Docker, Render, Vercel
 
-- **Get in touch:**  
+**Get in touch:**  
 - Email: pashtet0501@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/pavlo-spirin/

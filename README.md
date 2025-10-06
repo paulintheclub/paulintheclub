@@ -5,8 +5,8 @@ Currently working with **Next.js, TypeScript, Prisma, and tRPC**, focusing on e-
 
 **Tech Stack:**  
 - 💻 Languages: TypeScript, JavaScript 
-- ⚙️ Backend: Node.js, Express, NestJS, 
-- 🖥️ Frontend: React, Next.js, Tailwind, ShadCN  
+- ⚙️ Backend: Node.js, Express, NestJS, Java
+- 🖥️ Frontend: React, Angular, Next.js, Tailwind, ShadCN  
 - 🗄️ Databases: PostgreSQL, MySQL, Prisma ORM  
 - ☁️ DevOps: Docker, Render, Vercel
 

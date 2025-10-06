@@ -12,4 +12,4 @@ Currently working with **Next.js, TypeScript, Prisma, and tRPC**, focusing on e-
 
 - **Get in touch:**  
 - Email: pashtet0501@gmail.com  
-- LinkedIn: [@PavloSpirin]([https://t.me/yourhandle](https://www.linkedin.com/in/pavlo-spirin/))  
+- LinkedIn: https://www.linkedin.com/in/pavlo-spirin/

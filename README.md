@@ -7,8 +7,8 @@ Currently working with **Next.js, TypeScript, Prisma, and tRPC**, focusing on e-
 - 💻 Languages: TypeScript, JavaScript 
 - ⚙️ Backend: Node.js, Express, NestJS, Java
 - 🖥️ Frontend: React, Angular, Next.js, Tailwind, ShadCN  
-- 🗄️ Databases: PostgreSQL, MySQL, Prisma ORM  
-- ☁️ DevOps: Docker, Render, Vercel
+- 🗄️ Databases: PostgreSQL, MongoDB, Prisma ORM  
+- ☁️ DevOps: Hetzner, Coolify, Docker, Render, Vercel
 
 **Get in touch:**  
 - Email: pashtet0501@gmail.com  

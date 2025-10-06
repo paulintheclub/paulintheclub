@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Pavlo 👋  
 
-<!--
-**paulintheclub/paulintheclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about building modern, clean, and scalable web applications.  
+Currently working with **Next.js, TypeScript, Prisma, and tRPC**, focusing on e-commerce and automation projects.
 
-Here are some ideas to get you started:
+**Tech Stack:**  
+- 💻 Languages: TypeScript, JavaScript 
+- ⚙️ Backend: Node.js, Express, NestJS, 
+- 🖥️ Frontend: React, Next.js, Tailwind, ShadCN  
+- 🗄️ Databases: PostgreSQL, MySQL, Prisma ORM  
+- ☁️ DevOps: Docker, Render, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Get in touch:**  
+- Email: pashtet0501@gmail.com  
+- LinkedIn: [@PavloSpirin]([https://t.me/yourhandle](https://www.linkedin.com/in/pavlo-spirin/))  
